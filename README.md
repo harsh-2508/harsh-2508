@@ -31,20 +31,7 @@
 
 <!-- 🌟 LeetCode Dashboard Section -->
 
-<p align="center">
-  <!-- LeetCode Stats Card -->
-  <img src="https://leetcard.jacoblin.cool/harshvardhan_2508?theme=dark&font=Baloo+Bhai&ext=contest&border=1" 
-       alt="LeetCode Stats"
-       width="500"
-       style="border-radius: 12px; padding: 8px;" />
-</p>
-
-<p align="center">
-  <!-- Profile Button -->
-  <a href="https://leetcode.com/harshvardhan_2508/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/View%20My%20LeetCode%20Profile-000?style=for-the-badge&logo=leetcode&logoColor=white&color=FFA116" />
-  </a>
-</p>
+![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
 
 
 
