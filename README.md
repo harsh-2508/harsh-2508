@@ -27,9 +27,6 @@
 ---
 
 <!-- 🌟 LeetCode Dashboard Section -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🧠%20LeetCode%20Dashboard-Gradient?style=for-the-badge&logo=leetcode&logoColor=white&color=F89C34&labelColor=282C34" />
-</p>
 
 <p align="center">
   <!-- LeetCode Stats Card -->
