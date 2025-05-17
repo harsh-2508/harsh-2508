@@ -1,13 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Harshvardhan Singh</h1>
+<h3 align="center">A passionate developer exploring DSA, Web Dev, and ML</h3>
+
+---
+
+## 🧰 Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh-2508&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-2508&theme=tokyonight" width="48%" />
+</p>
+
+---
 
 ## 🧠 LeetCode Stats
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/harshvardhan_2508?theme=light&font=Baloo+Bhai&ext=contest)
 
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh-2508&show_icons=true)
+## 📫 Connect with Me
 
+- LinkedIn: [linkedin.com/in/harsh-2508](https://linkedin.com/in/harsh-2508)
+- LeetCode: [leetcode.com/harsh-2508](https://leetcode.com/harshvardhan_2508)
+- GitHub: [@harsh-2508](https://github.com/harsh-2508)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+---
+
+⭐️ *Thanks for visiting! Feel free to explore my repositories and connect with me!*
+
 
 
 
