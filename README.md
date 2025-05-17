@@ -20,6 +20,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=harsh-2508&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-2508&theme=tokyonight" width="48%" />
 </p>
+<!-- 📈 Contribution Heatmap (based on GitHub commits) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-2508&custom_title=GitHub%20&%20DSA%20Practice%20Activity&hide_border=true&bg_color=0d1117&color=58a6ff&line=00bfff&point=ffffff" alt="Contribution Graph" />
+</p>
 
 ---
 
@@ -29,9 +32,7 @@
   <!-- 🧮 LeetCode Stats Card -->
   <img src="https://leetcard.jacoblin.cool/harshvardhan_2508?theme=dark&font=Baloo+Bhai&ext=contest&border=1" alt="LeetCode Stats" />
 
-  <!-- 📈 Contribution Heatmap (based on GitHub commits) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-2508&custom_title=GitHub%20&%20DSA%20Practice%20Activity&hide_border=true&bg_color=0d1117&color=58a6ff&line=00bfff&point=ffffff" alt="Contribution Graph" />
-</p>
+  
 
 
 
