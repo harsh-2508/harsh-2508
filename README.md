@@ -57,7 +57,7 @@
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="[https://linkedin.com/in/harsh-2508](https://www.linkedin.com/in/harshvardhan-singhthakur25/)" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+  <a href="www.linkedin.com/in/harshvardhan-singhthakur25" target="_blank" rel="noopener noreferrer" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/harshvardhan_2508" target="_blank" rel="noopener noreferrer" title="LeetCode">
