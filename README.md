@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="[www.linkedin.com/in/harshvardhan-singhthakur25](https://www.linkedin.com/in/harshvardhan-singhthakur25/)" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="[www.linkedin.com/in/harshvardhan-singhthakur25]" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/harshvardhan_2508" target="_blank" rel="noopener noreferrer" title="LeetCode">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
