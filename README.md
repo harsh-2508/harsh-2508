@@ -23,9 +23,11 @@
 
 ---
 
-## 🧠 LeetCode Stats
+## 🧠 LeetCode Dashboard
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/harshvardhan_2508?theme=light&font=Baloo+Bhai&ext=contest)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/harshvardhan_2508?theme=dark&font=Baloo+Bhai&ext=contest&border=1" alt="LeetCode Stats" style="border-radius: 10px; box-shadow: 0 0 10px rgba(255,255,255,0.2);" />
+</p>
 
 ---
 
