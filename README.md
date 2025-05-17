@@ -27,22 +27,25 @@
 ---
 
 <!-- 🌟 LeetCode Dashboard Section -->
-<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #58a6ff;">
-  🧠 LeetCode Dashboard
-</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠%20LeetCode%20Dashboard-Gradient?style=for-the-badge&logo=leetcode&logoColor=white&color=F89C34&labelColor=282C34" />
+</p>
 
 <p align="center">
+  <!-- LeetCode Stats Card with glow effect -->
   <img src="https://leetcard.jacoblin.cool/harshvardhan_2508?theme=dark&font=Baloo+Bhai&ext=contest&border=1" 
        alt="LeetCode Stats"
        width="500"
-       style="border-radius: 10px; box-shadow: 0 0 15px rgba(88, 166, 255, 0.4); padding: 8px;" />
+       style="border-radius: 12px; box-shadow: 0 0 15px #f89c34cc; padding: 8px;" />
 </p>
 
 <p align="center">
+  <!-- View Profile Button -->
   <a href="https://leetcode.com/harshvardhan_2508/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-LeetCode_Profile-orange?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/badge/View%20My%20LeetCode%20Profile-000?style=for-the-badge&logo=leetcode&logoColor=white&color=FFA116" />
   </a>
 </p>
+
 
 
 
