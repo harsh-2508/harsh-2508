@@ -32,11 +32,11 @@
 </h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/harshvardhan_2508?theme=dark&font=Baloo+Bhai&ext=contest&border=1" 
-       alt="LeetCode Stats"
-       width="500"
-       style="border-radius: 10px; box-shadow: 0 0 15px rgba(88, 166, 255, 0.4); padding: 8px;" />
+  <a href="https://leetcode.com/harshvardhan_2508/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-LeetCode_Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
 </p>
+
 
 
 ---
