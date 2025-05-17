@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ## 🧠 LeetCode Stats
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/harsh-2508?theme=light&font=Baloo+Bhai&ext=contest)
+
 
 
 <!--
