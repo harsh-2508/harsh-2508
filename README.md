@@ -4,6 +4,10 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/harsh-2508?theme=light&font=Baloo+Bhai&ext=contest)
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+
+
 
 <!--
 **harsh-2508/harsh-2508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
