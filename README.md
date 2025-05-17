@@ -26,14 +26,17 @@
 
 ---
 
-## 🧠 LeetCode Dashboard
+<!-- 🌟 LeetCode Dashboard Section -->
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #58a6ff;">
+  🧠 LeetCode Dashboard
+</h2>
 
 <p align="center">
-  <!-- 🧮 LeetCode Stats Card -->
-  <img src="https://leetcard.jacoblin.cool/harshvardhan_2508?theme=dark&font=Baloo+Bhai&ext=contest&border=1" alt="LeetCode Stats" />
-
-  
-
+  <img src="https://leetcard.jacoblin.cool/harshvardhan_2508?theme=dark&font=Baloo+Bhai&ext=contest&border=1" 
+       alt="LeetCode Stats"
+       width="500"
+       style="border-radius: 10px; box-shadow: 0 0 15px rgba(88, 166, 255, 0.4); padding: 8px;" />
+</p>
 
 
 ---
