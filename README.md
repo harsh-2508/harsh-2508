@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshvardhan-singhthakur25/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-    <img src="[www.linkedin.com/in/harshvardhan-singhthakur25]" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/harshvardhan_2508" target="_blank" rel="noopener noreferrer" title="LeetCode">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
@@ -67,6 +67,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
 
 
 ---
