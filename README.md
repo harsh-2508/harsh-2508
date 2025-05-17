@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/harsh-2508?theme=light&font=Baloo+Bhai&ext=contest)
+
+
 <!--
 **harsh-2508/harsh-2508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
