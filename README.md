@@ -7,6 +7,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh-2508&show_icons=true)
 
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+
 
 
 <!--
