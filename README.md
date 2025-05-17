@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/harsh-2508?theme=light&font=Baloo+Bhai&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/harshvardhan_2508?theme=light&font=Baloo+Bhai&ext=contest)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh-2508&show_icons=true)
