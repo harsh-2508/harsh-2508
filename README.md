@@ -26,8 +26,13 @@
 ## 🧠 LeetCode Dashboard
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/harshvardhan_2508?theme=dark&font=Baloo+Bhai&ext=contest&border=1" alt="LeetCode Stats" style="border-radius: 10px; box-shadow: 0 0 10px rgba(255,255,255,0.2);" />
+  <!-- LeetCode Stats Card -->
+  <img src="https://leetcard.jacoblin.cool/harshvardhan_2508?theme=dark&font=Baloo+Bhai&ext=contest&border=1" alt="LeetCode Stats" />
+
+  <!-- LeetCode Contribution Graph (Unofficial) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshvardhan_2508&custom_title=My%20LeetCode%20&%20GitHub%20Activity&hide_border=true&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff" alt="Contribution Graph" />
 </p>
+
 
 ---
 
