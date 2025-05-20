@@ -24,8 +24,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-2508&theme=tokyonight" width="48%" />
 </p>
 <!-- 📈 Contribution Heatmap (based on GitHub commits) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-2508&custom_title=GitHub%20&%20DSA%20Practice%20Activity&hide_border=true&bg_color=0d1117&color=58a6ff&line=00bfff&point=ffffff" alt="Contribution Graph" />
+<!-- 🟩 Block-style Contribution Heatmap like LeetCode -->
+<p align="center">
+  <img src="https://github-contribution-grid.vercel.app/api?username=harsh-2508&color=58a6ff&bg=0d1117" alt="GitHub Contribution Heatmap" />
 </p>
+
 
 ---
 
