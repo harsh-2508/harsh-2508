@@ -24,13 +24,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-2508&theme=tokyonight" width="48%" />
 </p>
 
-<!-- 📈 Contribution Heatmap (based on GitHub commits) -->
-
-
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/58a6ff/harsh-2508" alt="GitHub Contribution Chart" />
-</p>
 
 
 
