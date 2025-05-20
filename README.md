@@ -23,11 +23,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=harsh-2508&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-2508&theme=tokyonight" width="48%" />
 </p>
-<!-- 📈 Contribution Heatmap (based on GitHub commits) -->
-<!-- 🟩 Block-style Contribution Heatmap like LeetCode -->
+
+<!-- 🟩 GitHub Contribution Heatmap via Jandee -->
 <p align="center">
-  <img src="https://github-contribution-grid.vercel.app/api?username=harsh-2508&color=58a6ff&bg=0d1117" alt="GitHub Contribution Heatmap" />
+  <iframe
+    src="https://jandee.vercel.app/harsh-2508?scheme=dark"
+    width="720"
+    height="200"
+    frameborder="0"
+    scrolling="no"
+  ></iframe>
 </p>
+
 
 
 ---
