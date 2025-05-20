@@ -24,16 +24,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-2508&theme=tokyonight" width="48%" />
 </p>
 
-<!-- 🟩 GitHub Contribution Heatmap via Jandee -->
+<!-- 📈 Contribution Heatmap (based on GitHub commits) -->
+
+
+
 <p align="center">
-  <iframe
-    src="https://jandee.vercel.app/harsh-2508?scheme=dark"
-    width="720"
-    height="200"
-    frameborder="0"
-    scrolling="no"
-  ></iframe>
+  <img src="https://ghchart.rshah.org/58a6ff/harsh-2508" alt="GitHub Contribution Chart" />
 </p>
+
 
 
 
