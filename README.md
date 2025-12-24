@@ -13,23 +13,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harsh-2508&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=harsh-2508&theme=tokyonight" width="48%" />
-</p>
-
-
-
-
-
----
-
-
 
 <!-- 🌟 LeetCode Dashboard Section -->
 
